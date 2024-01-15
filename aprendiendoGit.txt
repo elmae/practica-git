@@ -1,3 +1,9 @@
-vamos a estar practicando como 
-trabajar con git & github
+# Aprendiendo Git y Github
+
+## Detalle de avances
+listado actualizado de **Avances**
+
+###
+- Instalacion
+- Asociar git a vs code
 
