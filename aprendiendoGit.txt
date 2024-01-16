@@ -6,4 +6,6 @@ listado actualizado de **Avances**
 ###
 - Instalacion
 - Asociar git a vs code
+- Trabajar con branches locales
+
 
