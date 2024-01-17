@@ -1,13 +1,11 @@
-
-- 👋 Hi, I’m @elmae
-- 👀 I’m interested in web develepment
+# Mis practicas con GitHub
+Mis practicas de Git & GitHub con vsCode, y en general
+- 👋 Hola, soy @elmae
+- 👀 interested in web develepment
 - 🌱 I’m currently learning HTML, CSS, js and git
 - 💞️ I’m looking to collaborate on front end web development
 - 📫 How to reach me dmiles @ olitame . com
 
-
-# Mis practicas con GitHub
-Mis practicas de Git & GitHub con vsCode, y en general
 
 ## Repositorio de practica  
  
